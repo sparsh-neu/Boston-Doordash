@@ -1,0 +1,30 @@
+.main {
+  margin-top: 44px;
+  min-height: calc(100vh - 134px);
+  border-style:double;
+  background: linear-gradient(white,orange);
+  
+}
+
+.box{
+
+  height: 100%;
+  background: linear-gradient(to bottom, orange 40%, black);
+  color: white;
+  font-weight: bolder;
+  font-size: large;
+}
+
+
+.MuiTableContainer-root{
+  height:100%;
+  background: linear-gradient(to bottom, white 50%, orange);
+}
+
+p.menu-label{
+  color: white;
+  font-weight: bolder;
+  font-size: large;
+}
+
+

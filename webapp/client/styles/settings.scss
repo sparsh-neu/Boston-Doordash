@@ -1,0 +1,16 @@
+.settings-menu {
+  a.is-active {
+    background-color: black;
+  }
+
+  a.is-active:hover {
+    color: $white;
+  }
+
+  a:hover {
+    color: $grey;
+    background-color: black;
+  }
+  
+
+}
